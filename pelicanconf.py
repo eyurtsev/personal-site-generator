@@ -42,7 +42,7 @@ SOCIAL = (
     ('github', 'https://github.com/eyurtsev'),
 )
 
-SITELOGO = "img/profile.jpeg"
+SITELOGO = "/img/profile.jpeg"
 
 DEFAULT_PAGINATION = 10
 
